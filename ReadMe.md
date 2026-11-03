@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 BSc Data Science Student | 💻 Python & SQL<br>🤖 Interested in AI, Machine Learning & Data Analytics<br>🚀 Exploring Technology and Building Projects<br>📊 Turning Data into Insights<br>
+🎓 BSc Data Science Student | 💻 Python & SQL<br>🤖 Machine Learning, Deep Learning & Data Analytics<br>🚀 Exploring Technology and Building Projects<br>📊 Exploring the world through data <b>🧠 Think logically. Create digitally.
+
+
 
 
 ## 🌐 Socials:
