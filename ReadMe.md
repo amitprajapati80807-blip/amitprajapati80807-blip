@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AmitPrajapati) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ammit_.99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitprajapati80807@gamil.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amitprajapati99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?.svglogo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amitprajapati99)
 
 
 # 💻 Tech Stack:
